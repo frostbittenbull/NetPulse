@@ -30,6 +30,7 @@
 ```bash
 git clone (https://github.com/frostbittenbull/NetPulse.git
 cd NetPulse
+pip install -r requirements.txt
 python main.py
 ```
 
