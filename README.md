@@ -56,6 +56,12 @@ pyinstaller --onefile --noconsole --icon="icon.ico" --add-data "icon.ico;." main
 
 ---
 
+## 🖼️ Скриншот:
+
+![Preview](Screenshot.png)
+
+---
+
 ## 🛠️ Стек технологий:
 
 - Python 3.10+
