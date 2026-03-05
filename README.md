@@ -1,4 +1,4 @@
-# NetPulse
+# NetPulse: Subnet Scanner
 
 ![Preview](Preview.png)
 
