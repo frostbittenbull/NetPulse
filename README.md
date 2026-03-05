@@ -28,9 +28,8 @@
 ### Вариант 2 — из исходников:
 
 ```bash
-git clone <repo-url>
-cd subnet-scanner
-pip install customtkinter
+git clone (https://github.com/frostbittenbull/NetPulse.git
+cd NetPulse
 python main.py
 ```
 
